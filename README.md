@@ -4,7 +4,11 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
+Introduction to github 
+
 ## Purpose
+
+for smooth execution
 
 ## How to contribute
 
