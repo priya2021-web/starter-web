@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    James Taylor abc@tcs.com @awesome
 
 # THANKS
 
