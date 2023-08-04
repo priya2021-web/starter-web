@@ -9,3 +9,7 @@ Staged (Added later)
 
 
 ## Invitation
+
+###Copyright
+
+Git.Train
