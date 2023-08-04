@@ -12,4 +12,6 @@ Staged (Added later)
 
 ###Copyright
 
+Please fork this repository. --in master branch
+
 Git.Train
